@@ -20,7 +20,7 @@ val = [
     ('B/0002', 'Vasudha' , 'vasudha1234'),
     ('B/0003', 'Sai' , 'sai1234'),
     ('B/0004', 'Rajeev' , 'rajeev1234'),
-    ('B/0005', 'Siddharth' , 'siddharth1234').
+    ('B/0005', 'Siddharth' , 'siddharth1234')
 ]
 
 mycursor.executemany(sql, val)
